@@ -11,3 +11,4 @@ node {
     def mvn_cmd = "${maven_home}/bin/mvn"
     " bat ${mvn_cmd} mvn clean package"
     }
+}
