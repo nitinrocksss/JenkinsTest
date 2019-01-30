@@ -18,3 +18,4 @@ node {
            " bat ${mvnHome}/bin/mvn sonar:sonar"
 }
 }
+}
